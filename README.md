@@ -6,6 +6,11 @@ A simple and interactive basketball scoring application built as part of the Scr
 
 This project is a functional basketball scorecard that allows users to track scores for two teams during a basketball game. It's designed to be user-friendly and responsive across different devices.
 
+## 🔗 Live Demo
+
+![Screenshot](./assets/screenshot.png)
+[View the live scorecard](https://anik-hindu.github.io/basketball-scoreboard)
+
 ## ✨ Features
 
 - **Real-time Score Tracking**: Update scores instantly for both teams
@@ -24,6 +29,7 @@ This project is a functional basketball scorecard that allows users to track sco
 
 ```
 basketball-scorecard/
+├── assets
 ├── index.html
 ├── style.css
 ├── script.js
@@ -98,6 +104,6 @@ This project is created as part of the Scrimba curriculum. Feel free to use it a
 
 ---
 
-**Created**: [Your Date]  
-**Author**: [Your Name]  
+**Created**: 04-04-2026  
+**Author**: Anik Saha
 **Project Type**: Scrimba Solo Project
