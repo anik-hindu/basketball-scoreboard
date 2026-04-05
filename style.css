@@ -59,3 +59,18 @@ body {
   border-radius: 5px;
   background-color: transparent;
 }
+
+.reset-btn {
+  display: block;
+  font-family: inherit;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+  margin: 0 auto;
+  width: 120px;
+  height: 50px;
+  border-radius: 8px;
+  background-color: #4ecdc4;
+  border: 2px solid white;
+  margin-top: 8px;
+}
